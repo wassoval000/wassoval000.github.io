@@ -1,7 +1,7 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
-    $('.clickMe').click(function(){
-        $('.showMe').html();
+    $('.clickMe').click(function () {
+        $('.showMe').show();
     });
 
 

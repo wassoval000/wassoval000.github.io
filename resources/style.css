@@ -9,7 +9,46 @@ nav{
 }
 body{
     padding: 100px;
+    background-image: linear-gradient(to bottom right, rgba(21,40,231,.86), rgba(59,99,231,.83), rgba(119,116,231,.94), rgba(60,170,231,.73));
 }
 .showMe{
     display: none;
+}
+footer{
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+p{
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    font-family: 'Great Vibes', cursive;
+}
+nav{
+    font-family: 'Dancing Script', cursive;
+}
+li{
+    font-family: 'Cinzel', serif;
+}
+ul{
+    font-family: 'Domine', serif;
+}
+ol{
+    font-family: 'Domine', serif;
+}
+table{
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+a{
+    color: #ff99ff;
+}
+a:hover{
+    color: #ff99ff;
+}
+a:visited{
+    color: #ff99ff;
 }
